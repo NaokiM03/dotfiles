@@ -11,3 +11,5 @@ function bin { cd "\bin" }
 function lib { cd "\lib" }
 function gh { cd "\github" }
 function lab { cd "\gitlab" }
+function dotfiles { cd "\github\dotfiles" }
+function dotfiles-private { cd "\dotfiles" }
